@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bus Route</string>
+    <string name="button_search">Search</string>
+    <string name="edit_search">Search route</string>
+</resources>
